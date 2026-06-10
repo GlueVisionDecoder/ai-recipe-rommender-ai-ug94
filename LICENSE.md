@@ -1,4 +1,4 @@
-# 
+# Open Source AI Recipe Recommender plugins. Featuring generative-AI and data-augmentation — optimized for maximum performance.
 
 
 
